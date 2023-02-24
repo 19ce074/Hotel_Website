@@ -19,6 +19,7 @@ ___
 + ### Install MongoDB
     + Go to https://www.mongodb.com/docs/manual/installation/ and install the suiltable version for your OS.
     + For steps of installation, refer [this](https://www.mongodb.com/docs/manual/installation/#mongodb-installation-tutorials) document.
+    + For queries regarding installation refer [here](https://www.mongodb.com/docs/drivers/node/current/#:~:text=For%20answers).
  
 + ### Clone this Repository
   + Go to your command terminal and cd to the folder you want to clone this repo to.
