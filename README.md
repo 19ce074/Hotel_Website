@@ -59,7 +59,7 @@ Clients can reserve tables and book rooms. They can also order the food from the
 ![book room](https://user-images.githubusercontent.com/125547030/220865406-e0e197c4-7bb7-41e7-9258-1281fdb57e97.jpeg)
 
 ---
-<a name="guest"></a>
+<a name="manager"></a>
 ### Admin View
 Admin and hotel management can view the reservations and booking. They can view feedback and manage the customers.
 
