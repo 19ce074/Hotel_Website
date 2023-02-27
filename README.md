@@ -40,7 +40,7 @@ ___
     + The home page of the website should be visible.
     + If there is any error in starting the server, make sure that the missing dependencies are installed.
 ___
-+ ### Website Contents
++ ### Website Contents Link
 1. [About](#about)
 2. [Client View](#guest)
 3. [Manager/Admin View](#manager)
